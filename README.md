@@ -63,21 +63,9 @@ Currently, I’m working on **OPINION.AI**, an AI-powered platform that analyzes
 
 ---
 
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SulimanKSA&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 👁️ Profile Views  
 <p align="center">
   <a href="https://u8views.com/github/SulimanKSA">
     <img src="https://u8views.com/api/v1/github/profiles/126826976/views/day-week-month-total-count.svg" alt="Suliman profile views"/>
   </a>
 </p>
-
----
-
-✨ *“Transforming ideas into intelligent systems — one project at a time.”*  
-📍 *Majmaah University, KSA*
