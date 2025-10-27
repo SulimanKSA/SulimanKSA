@@ -26,8 +26,8 @@ Currently, I’m working on **OPINION.AI**, an AI-powered platform that analyzes
 **Focus areas & interests**
 - Full-stack web (HTML · CSS · JavaScript · PHP · MySQL)  
 - Programming languages (C++, Python)  
-- AI/NLP: text processing · sentiment/review analysis · model customization  
-- Compiler concepts & code generation  
+- AI/NLP: text processing · sentiment analysis · model customization  
+- Compiler concepts 
 
 ---
 
